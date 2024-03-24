@@ -23,5 +23,4 @@ func isIsomorphic(_ s: String, _ t: String) -> Bool {
     
     return true
 }
-isIsomorphic("paper", "title")
-isIsomorphic("foo", "bar")
+

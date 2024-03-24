@@ -3,8 +3,8 @@
 import Foundation
 
 func convertToTitle(_ columnNumber: Int) -> String {
-    let alphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"] //  26
-    var num = columnNumber // 26
+    let alphabet = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
+    var num = columnNumber
  
     if columnNumber <= 26 {
         return alphabet[columnNumber-1]

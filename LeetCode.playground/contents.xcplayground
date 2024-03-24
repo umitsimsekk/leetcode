@@ -17,5 +17,20 @@
         <page name='83.remove-duplicates-from-sorted-list'/>
         <page name='88.merge-sorted-array'/>
         <page name='118.pascal&apos;s-triangle'/>
+        <page name='119.pascal&apos;s-triangle-II'/>
+        <page name='121.best-time-to-buy-and-sell-stock'/>
+        <page name='125.valid-palindrome'/>
+        <page name='136.single-number'/>
+        <page name='168.excel-sheet-column-title'/>
+        <page name='169.majority-element'/>
+        <page name='190.reverse-bits'/>
+        <page name='191.number-of-1-bits'/>
+        <page name='205.isomorphic-strings'/>
+        <page name='217.contains-duplicate'/>
+        <page name='258.add-digits'/>
+        <page name='219.contains-duplicate-ii'/>
+        <page name='242.valid-anagram'/>
+        <page name='268.missing-number'/>
+        <page name='283.move-zeroes'/>
     </pages>
 </playground>
