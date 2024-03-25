@@ -2,6 +2,12 @@
 
 import Foundation
 
-var greeting = "Hello, playground"
+func reverseString(_ s: inout [Character]) {
+    var tempArr = [Character]()
+    
+    for char in s.reversed() {
+        tempArr.append(char)
+    }
+    s = tempArr
+}
 
-//: [Next](@next)
