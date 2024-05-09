@@ -4,8 +4,8 @@ import Foundation
 
 func intersection(_ nums1: [Int], _ nums2: [Int]) -> [Int] {
     var output = [Int]()
-    var n1 = Set(nums1)
-    var n2 = Set(nums2)
+    var n1 = nums1
+    var n2 = nums2
     
     for num in n1 {
         if n2.contains(num) {

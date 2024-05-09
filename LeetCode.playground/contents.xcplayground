@@ -32,5 +32,24 @@
         <page name='242.valid-anagram'/>
         <page name='268.missing-number'/>
         <page name='283.move-zeroes'/>
+        <page name='290.word-pattern'/>
+        <page name='303.range-sum-query-immutable'/>
+        <page name='338.counting-bits'/>
+        <page name='344.reverse-string'/>
+        <page name='349.intersection-of-two-arrays'/>
+        <page name='387.first-unique-character-in-a-string'/>
+        <page name='389.find-the-difference'/>
+        <page name='383-ransom-note'/>
+        <page name='412-fizz-buzz'/>
+        <page name='448-find-all-numbers-disappeared-in-an-array'/>
+        <page name='441-arranging-coins'/>
+        <page name='476-number-complement'/>
+        <page name='500.keyboard-row'/>
+        <page name='485.max-consecutive-ones'/>
+        <page name='506.relative-ranks'/>
+        <page name='521.longest-uncommon-subsequence-I'/>
+        <page name='504.base-7'/>
+        <page name='509-fibonacci-number'/>
+        <page name='557. reverse-words-in-a-string-III'/>
     </pages>
 </playground>
